@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_MFAnEdIrEe6535qo5DQTdw" label="datadog" description="" language="java" technicalLabel="DATADOG" author="_MFAnEtIrEe6535qo5DQTdw" productVersion="Talend Cloud Data Management Platform-8.0.1.20240222_1049-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/yasser1701/datadog-.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_MFrVcNIrEe6535qo5DQTdw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_MFAnEtIrEe6535qo5DQTdw" login="yasserkhemakhem40@trial27741.eu.talend.com" firstName="Yasser" lastName="Khemakhem" type="DQ"/>
+  <TalendProperties:User xmi:id="_W6-SUNxjEe6yk-JsdGIXCg" login="yasser.khamakhem@trial28141.eu.talend.com" firstName="Yasser" lastName="Khemakhem" type="DQ"/>
+  <TalendProperties:User xmi:id="_W6-SUdxjEe6yk-JsdGIXCg" login="yasser.khamakhem@trial28141.eu.talend.com" firstName="Yasser" lastName="Khemakhem" type="DQ"/>
+  <TalendProperties:User xmi:id="_38SsUOpHEe6ra-xPXwSQDQ" login="saida.dammak@trial28656.eu.talend.com" firstName="Yasser" lastName="Khemakhem" type="DQ"/>
+  <TalendProperties:User xmi:id="_38SsUepHEe6ra-xPXwSQDQ" login="saida.dammak@trial28656.eu.talend.com" firstName="Yasser" lastName="Khemakhem" type="DQ"/>
+</xmi:XMI>
